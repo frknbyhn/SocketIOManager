@@ -1,0 +1,24 @@
+PODS:
+  - Socket.IO-Client-Swift (15.2.0):
+    - Starscream (~> 3.1)
+  - Starscream (3.1.1)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Socket.IO-Client-Swift (~> 15.2.0)
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Socket.IO-Client-Swift
+    - Starscream
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Socket.IO-Client-Swift: 1e3e3a1f09f3312a167f0d781eb2f383d477357c
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 08c3eacd601cef1e917526e5ddbef7e9c3a6f2b2
+
+COCOAPODS: 1.11.3
